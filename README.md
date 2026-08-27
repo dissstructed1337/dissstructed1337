@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api?username=dissstructed1337&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=dissstructed1337&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
 
 # dissstructed1337 ⚡
 
@@ -6,7 +6,7 @@
 
 > 🌌 Passionate about software architecture, low-level systems & modern web tech.
 
-<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api/top-langs?username=dissstructed1337&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dissstructed1337&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
 
 - 💻 **Focus:** High-performance systems / Full-Stack / Reverse Engineering
 - 💬 **Languages:** Russian (Native) / English (Fluent)
