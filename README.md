@@ -1,21 +1,26 @@
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=dissstructed1337&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
-
-# dissstructed1337 ⚡
-
-### Hi there 👋
-
-> 🌌 Passionate about software architecture, low-level systems & modern web tech.
-
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dissstructed1337&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
-
-- 💻 **Focus:** High-performance systems / Full-Stack / Reverse Engineering
-- 💬 **Languages:** Russian (Native) / English (Fluent)
-- ⚡ **Interests:** Anime, Cyberpunk, Linux customization, OS internals
-- 🎯 **Status:** Building open-source & scalable architectures
+<table width="100%" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h1>dissstructed1337 ⚡</h1>
+      <h3>Hi there 👋</h3>
+      <blockquote>
+        🌌 Passionate about software architecture, low-level systems & modern web tech.
+      </blockquote>
+      <ul>
+        <li>💻 <b>Focus:</b> High-performance systems / Full-Stack / Reverse Engineering</li>
+        <li>💬 <b>Languages:</b> Russian (Native) / English (Fluent)</li>
+        <li>⚡ <b>Interests:</b> Anime, Cyberpunk, Linux customization, OS internals</li>
+        <li>🎯 <b>Status:</b> Building open-source & scalable architectures</li>
+      </ul>
+    </td>
+    <td width="45%" align="right" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=dissstructed1337&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true" width="100%" /><br/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dissstructed1337&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<img align="right" src="https://count.getloli.com/@dissstructed1337?name=dissstructed1337&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
 ## 🌱 Tech Stack & Languages
 
@@ -51,3 +56,9 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dissstructed1337@gmail.com)
+
+<br/>
+
+<div align="center">
+  <img src="https://count.getloli.com/@dissstructed1337?name=dissstructed1337&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+</div>
