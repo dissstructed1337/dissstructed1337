@@ -1,35 +1,51 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime/Goku-Ultra-Instinct.gif" width="100%" />
 
-  <br/><br/>
+  <!-- Анимированная SVG-шапка в глубоких темных тонах -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090A0F,50:121826,100:090A0F&height=180&section=header&text=DEVELOPER%20WORKSPACE&fontSize=32&fontColor=ffffff&fontAlignY=55&stroke=38bdf8&strokeWidth=1" width="100%"/>
 
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38ba8"/></a>
-  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=cba6f7"/></a>
-  <a href="https://steamcommunity.com/id/your_steam"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=89b4fa"/></a>
-  <a href="https://myanimelist.net/profile/your_mal"><img src="https://img.shields.io/badge/MyAnimeList-000000?style=for-the-badge&logo=myanimelist&logoColor=2e51a2"/></a>
+  <br/>
+
+  <!-- Минималистичные монохромные бейджи -->
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=38BDF8&labelColor=090D16"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=818CF8&labelColor=090D16"/></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F1F5F9&labelColor=090D16"/></a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,react,nextjs,nodejs,tailwind,postgres,redis,docker,linux,git&theme=dark" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+</div>
+
+<br/>
+
+### ⚙️ Architecture & Tech Stack
+
+<div align="center">
+  <!-- Технологии в Dark/Monochrome стиле (ровно по 6 в ряд) -->
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,c&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,graphql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,git&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+</div>
+
+<br/>
+
+### 📈 Activity & Metrics
+
+<div align="center">
+  <!-- Анимированный SVG-график активности в стиле GitHub Dark -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0D1117&color=38BDF8&line=818CF8&point=F1F5F9&area=true&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Anime/Zoro-Night.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090A0F,50:121826,100:090A0F&height=30&section=footer&stroke=38bdf8&strokeWidth=1" width="100%"/>
 </div>
