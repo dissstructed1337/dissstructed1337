@@ -1,12 +1,12 @@
-<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
+<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api?username=dissstructed1337&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
 
-# Your Name (YOUR_GITHUB_USERNAME) ⚡
+# dissstructed1337 ⚡
 
 ### Hi there 👋
 
 > 🌌 Passionate about software architecture, low-level systems & modern web tech.
 
-<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api/top-langs?username=YOUR_GITHUB_USERNAME&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
+<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api/top-langs?username=dissstructed1337&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
 
 - 💻 **Focus:** High-performance systems / Full-Stack / Reverse Engineering
 - 💬 **Languages:** Russian (Native) / English (Fluent)
@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" src="https://count.getloli.com/@YOUR_GITHUB_USERNAME?name=YOUR_GITHUB_USERNAME&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<img align="right" src="https://count.getloli.com/@dissstructed1337?name=dissstructed1337&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
 ## 🌱 Tech Stack & Languages
 
@@ -47,7 +47,7 @@
 
 ## 📫 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dissstructed1337)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dissstructed1337@gmail.com)
