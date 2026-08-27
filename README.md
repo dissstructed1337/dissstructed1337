@@ -1,51 +1,53 @@
-<div align="center">
+<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true">
 
-  <!-- Анимированная SVG-шапка в глубоких темных тонах -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090A0F,50:121826,100:090A0F&height=180&section=header&text=DEVELOPER%20WORKSPACE&fontSize=32&fontColor=ffffff&fontAlignY=55&stroke=38bdf8&strokeWidth=1" width="100%"/>
+# Your Name (YOUR_GITHUB_USERNAME) ⚡
 
-  <br/>
+### Hi there 👋
 
-  <!-- Минималистичные монохромные бейджи -->
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=38BDF8&labelColor=090D16"/></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=818CF8&labelColor=090D16"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F1F5F9&labelColor=090D16"/></a>
+> 🌌 Passionate about software architecture, low-level systems & modern web tech.
 
-</div>
+<img align="right" src="https://github-readme-stats.salesp07.workers.dev/api/top-langs?username=YOUR_GITHUB_USERNAME&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&layout=compact">
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</div>
+- 💻 **Focus:** High-performance systems / Full-Stack / Reverse Engineering
+- 💬 **Languages:** Russian (Native) / English (Fluent)
+- ⚡ **Interests:** Anime, Cyberpunk, Linux customization, OS internals
+- 🎯 **Status:** Building open-source & scalable architectures
 
 <br/>
 
-### ⚙️ Architecture & Tech Stack
+<img align="right" src="https://count.getloli.com/@YOUR_GITHUB_USERNAME?name=YOUR_GITHUB_USERNAME&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
-<div align="center">
-  <!-- Технологии в Dark/Monochrome стиле (ровно по 6 в ряд) -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,c&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,graphql&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,git&theme=dark" />
-</div>
+## 🌱 Tech Stack & Languages
 
-<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</div>
+---
 
-<br/>
+## 💻 Environment & OS
 
-### 📈 Activity & Metrics
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=fff)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=flat-square&logo=windows-11&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff)
+![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 
-<div align="center">
-  <!-- Анимированный SVG-график активности в стиле GitHub Dark -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0D1117&color=38BDF8&line=818CF8&point=F1F5F9&area=true&hide_border=true" width="95%" />
-</div>
+---
 
-<br/>
+## 📫 Get in Touch
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090A0F,50:121826,100:090A0F&height=30&section=footer&stroke=38bdf8&strokeWidth=1" width="100%"/>
-</div>
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
